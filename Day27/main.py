@@ -26,3 +26,6 @@ input = Entry(width=10)
 input.pack()
 print(input.get())
 
+for i in 5:
+    
+
